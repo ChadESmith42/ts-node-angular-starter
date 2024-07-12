@@ -12,6 +12,7 @@
     "include": [
         "modules/**/*",
         "utilities/**/*",
+        "routes/**/*",
         "db/**/*",
         "index.ts",
     ]
