@@ -1,0 +1,23 @@
+{
+  "name": "ts-node-angular-starter",
+  "version": "1.0.0",
+  "description": "Node and Express API with Typescript, Angular UI, and PostgreSQL database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Typescript",
+    "Angular",
+    "API",
+    "Postgres",
+    "Express"
+  ],
+  "author": {
+    "name": "Chad Smith",
+    "email": "chad.e.smith@outlook.com",
+    "url": "https://github.com/ChadESmith42"
+  },
+  "license": "ISC"
+}
